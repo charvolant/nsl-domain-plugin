@@ -4,6 +4,7 @@ class Distribution {
 
     String description
     String region
+    int sortOrder
     boolean isNative = false
     boolean isNaturalised = false
     boolean isDoubtfullyNaturalised = false
